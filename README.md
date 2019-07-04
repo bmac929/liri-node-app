@@ -1,5 +1,6 @@
 # liri-node-app  
-Liri serves as a quick and easy way to find information regarding bands/artists, songs, and movies.
+Liri serves as a quick and easy way to find information regarding bands/artists, songs, and movies. 
+I started the app by stating the required variables which are axios, spotify, moment.js, fs, dotenv, and keys.js
 
 1. With the command "concert-this" liri will find an artist or bands next concert date, city, & venue.
 
