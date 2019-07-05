@@ -1,6 +1,7 @@
 # liri-node-app  
 Liri serves as a quick and easy way to find information regarding bands/artists, songs, and movies. 
-I started the app by stating the required variables which are axios, spotify, moment.js, fs, dotenv, and keys.js
+I started the app by stating the required variables which are axios, spotify, moment.js, fs, dotenv, and keys.js.
+Depending on the search term that is used Liri will access a specific API to rretrieve information. The 3 APIs that are used are Bands in Town, Spotify, and OMDB. The code is broken up into 3 major parts. Each API has its own section. First we specify the Bands in Town API url and then specify what information to bring back. We repeat this process with Spotify and OMDB.
 
 1. With the command "concert-this" liri will find an artist or bands next concert date, city, & venue.
 
@@ -16,12 +17,15 @@ Liri is a useful way to find information regarding multilple subjects all in one
 To get started with liri simply open the correct file path conataining liri in your terminal. From there, type in "node liri.js" followed by one of the commands stated in numbers 1-4:
 
 1. Enter band/artist name (ex. node liri.js concert-this Big Sean)
+![Concert This Command] (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\CTCommand)
 
 2. Enter song title (ex. node liri.js spotify-this-song Going Bad)
 
 3. Enter movie title (ex. node liri.js movie-this Inception)
 
 4. Enter one of the previous commands in the "random.txt" file
+
+In addtion to the the 3 APIs stated, Liri also uses moment.js, axios, and FS.
                                         
                                         
 If you have any difficulty please email me at bmac929@yahoo.com
