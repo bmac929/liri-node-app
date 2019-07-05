@@ -18,13 +18,18 @@ To get started with liri simply open the correct file path conataining liri in y
 
 1. Enter band/artist name (ex. node liri.js concert-this Big Sean)
 ![Concert This Command] (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\CTCommand)
+![Concert This Results] (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\CTResults)
 
 2. Enter song title (ex. node liri.js spotify-this-song Going Bad)
+![Spotify This Song Command) (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\STSCommand)
+![Spotify This Song Results) (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\STSResults)
 
 3. Enter movie title (ex. node liri.js movie-this Inception)
-
+![Movie This Command] (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\MTCommand)
+![Movie This Results] (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\MTResults)
 4. Enter one of the previous commands in the "random.txt" file
-
+![Do What It Says Command] (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\DWISCommand)
+![Do What It Says Results] (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\DWISResults)
 In addtion to the the 3 APIs stated, Liri also uses moment.js, axios, and FS.
                                         
                                         
