@@ -30,7 +30,7 @@ To get started with liri simply open the correct file path conataining liri in y
 4. Enter one of the previous commands in the "random.txt" file
 ![Do What It Says Command] (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\DWISCommand)
 ![Do What It Says Results] (C:\Users\B-Mac\Desktop\CBC\Homework\liri-node-app\DWISResults)
-In addtion to the the 3 APIs stated, Liri also uses moment.js, axios, and FS.
+In addtion to the the 3 APIs stated, Liri also uses moment.js, axios, dotenv, and FS.
                                         
                                         
 If you have any difficulty please email me at bmac929@yahoo.com
