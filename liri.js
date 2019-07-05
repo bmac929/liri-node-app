@@ -4,11 +4,13 @@ var Spotify = require('node-spotify-api')
 var keys = require("./keys.js");
 var moment = require('moment');
 var fs = require("fs");
-//moment().format(MM / DD / YYYY);
 
 var spotify = new Spotify(keys.spotify);
 
+//Cutting the first 2 commands (node, liri.js) out of what liri will process
 var info = process.argv[2];
+
+//Grabbing the commands that are entered
 var parameter = process.argv.slice(3).join(" ");
 
 
@@ -77,6 +79,7 @@ function liri() {
             var omdbURL = "http://www.omdbapi.com/?t=" + parameter + "&y=&plot=short&apikey=trilogy";
             axios
                 .get(omdbURL)
+
                 //console log responses
                 .then(function (response) {
                     console.log("Title: " + response.data.Title);
