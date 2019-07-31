@@ -16,21 +16,21 @@ Liri is a useful way to find information regarding multilple subjects all in one
 
 To get started with liri simply open the correct file path conataining liri in your terminal. From there, type in "node liri.js" followed by one of the commands stated in numbers 1-4:
 
-1. Enter band/artist name (ex. node liri.js concert-this Big Sean)
+1. Enter band/artist name (ex. node liri.js concert-this Ariana Grande)
 ![Concert This Command](/CTCommand.png)
-![Concert This Results] (https://github.com/bmac929/liri-node-app/blob/master/CTResults.png)
+![Concert This Results](/CTResults.png)
 
 2. Enter song title (ex. node liri.js spotify-this-song Going Bad)
-![Spotify This Song Command) (https://github.com/bmac929/liri-node-app/blob/master/STSCommand.png)
-![Spotify This Song Results) (https://github.com/bmac929/liri-node-app/blob/master/STSResults.png)
+![Spotify This Song Command)(/STSCommand.png)
+![Spotify This Song Results)(/STSResults.png)
 
 3. Enter movie title (ex. node liri.js movie-this Inception)
-![Movie This Command] (https://github.com/bmac929/liri-node-app/blob/master/MTCommand.png)
-![Movie This Results] (https://github.com/bmac929/liri-node-app/blob/master/MTResults.png)
+![Movie This Command](/MTCommand.png)
+![Movie This Results](/MTResults.png)
 
 4. Enter one of the previous commands in the "random.txt" file
-![Do What It Says Command] (https://github.com/bmac929/liri-node-app/blob/master/DWISCommand.png)
-![Do What It Says Results] (https://github.com/bmac929/liri-node-app/blob/master/DWISResults.png)
+![Do What It Says Command](/DWISCommand.png)
+![Do What It Says Results](/DWISResults.png)
 
 In addtion to the the 3 APIs stated, Liri also uses moment.js, axios, dotenv, and FS.
                                         
