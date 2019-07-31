@@ -17,7 +17,7 @@ Liri is a useful way to find information regarding multilple subjects all in one
 To get started with liri simply open the correct file path conataining liri in your terminal. From there, type in "node liri.js" followed by one of the commands stated in numbers 1-4:
 
 1. Enter band/artist name (ex. node liri.js concert-this Big Sean)
-![Concert This Command] (https://github.com/bmac929/liri-node-app/blob/master/CTCommand.png)
+![Concert This Command](/CTCommand.png)
 ![Concert This Results] (https://github.com/bmac929/liri-node-app/blob/master/CTResults.png)
 
 2. Enter song title (ex. node liri.js spotify-this-song Going Bad)
