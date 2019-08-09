@@ -21,8 +21,8 @@ To get started with liri simply open the correct file path conataining liri in y
 ![Concert This Results](/CTResults.png)
 
 2. Enter song title (ex. node liri.js spotify-this-song Going Bad)
-![Spotify This Song Command)(/STSCommand.png)
-![Spotify This Song Results)(/STSResults.png)
+![Spotify This Song Command](/STSCommand.png)
+![Spotify This Song Results](/STSResults.png)
 
 3. Enter movie title (ex. node liri.js movie-this Inception)
 ![Movie This Command](/MTCommand.png)
